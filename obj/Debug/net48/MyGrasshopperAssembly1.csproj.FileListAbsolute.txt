@@ -1,0 +1,12 @@
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\bin\Debug\net48\MyGrasshopperAssembly1.gha
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\bin\Debug\net48\MyGrasshopperAssembly1.pdb
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\MyGrasshopperAssembly1.csproj.AssemblyReference.cache
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\MyGrasshopperAssembly1.GeneratedMSBuildEditorConfig.editorconfig
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\MyGrasshopperAssembly1.AssemblyInfoInputs.cache
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\MyGrasshopperAssembly1.AssemblyInfo.cs
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\MyGrasshopperAssembly1.csproj.CoreCompileInputs.cache
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\MyGrasshopperAssembly1.gha
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\MyGrasshopperAssembly1.pdb
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\MyGrasshopperAssembly1.csproj.GenerateResource.cache
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\bin\Debug\net48\Resources\icon_sphere2pts.png
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\MyGrasshopperAssembly1.Properties.Resources.resources

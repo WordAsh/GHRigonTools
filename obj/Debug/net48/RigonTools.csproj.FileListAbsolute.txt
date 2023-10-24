@@ -1,0 +1,12 @@
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\RigonTools.csproj.AssemblyReference.cache
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\RigonTools.csproj.GenerateResource.cache
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\bin\Debug\net48\Resources\icon_sphere2pts.png
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\bin\Debug\net48\RigonTools.gha
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\bin\Debug\net48\RigonTools.pdb
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\RigonTools.Properties.Resources.resources
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\RigonTools.GeneratedMSBuildEditorConfig.editorconfig
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\RigonTools.AssemblyInfoInputs.cache
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\RigonTools.AssemblyInfo.cs
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\RigonTools.csproj.CoreCompileInputs.cache
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\RigonTools.gha
+E:\rhino-grasshopper-dev\MyGrasshopperAssembly1\MyGrasshopperAssembly1\obj\Debug\net48\RigonTools.pdb
