@@ -73,6 +73,46 @@ namespace MyGrasshopperAssembly1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icon_delOverlapCurves {
+            get {
+                object obj = ResourceManager.GetObject("icon_delOverlapCurves", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icon_determineClusters {
+            get {
+                object obj = ResourceManager.GetObject("icon_determineClusters", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icon_getBorderChangedSegments {
+            get {
+                object obj = ResourceManager.GetObject("icon_getBorderChangedSegments", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icon_linearProjectOutline {
+            get {
+                object obj = ResourceManager.GetObject("icon_linearProjectOutline", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icon_sphere2pts {
             get {
                 object obj = ResourceManager.GetObject("icon_sphere2pts", resourceCulture);

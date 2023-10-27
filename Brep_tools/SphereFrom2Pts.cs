@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Grasshopper.Kernel;
 using Rhino.Geometry;
 
-namespace MyGrasshopperAssembly1.Geometry
+namespace MyGrasshopperAssembly1.Brep_tools
 {
     public class SphereFrom2Pts : GH_Component
     {

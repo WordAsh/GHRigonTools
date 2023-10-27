@@ -4,7 +4,7 @@ using Rhino.Geometry;
 using System;
 using System.Collections.Generic;
 
-namespace MyGrasshopperAssembly1.Curve
+namespace MyGrasshopperAssembly1.Curve_tools
 {
     public class Spiral : GH_Component
     {
@@ -21,7 +21,6 @@ namespace MyGrasshopperAssembly1.Curve
             pManager.AddNumberParameter("Inner Radius", "R0", "Inner radius for spiral", GH_ParamAccess.item, 1.0);
             pManager.AddNumberParameter("Outer Radius", "R1", "Outer radius for spiral", GH_ParamAccess.item, 10.0);
             pManager.AddIntegerParameter("Turns", "T", "Number of turns between radii", GH_ParamAccess.item, 10);
-
         }
 
         protected override void RegisterOutputParams(GH_OutputParamManager pManager)
