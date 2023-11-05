@@ -113,6 +113,16 @@ namespace MyGrasshopperAssembly1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icon_selectPts {
+            get {
+                object obj = ResourceManager.GetObject("icon_selectPts", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icon_sphere2pts {
             get {
                 object obj = ResourceManager.GetObject("icon_sphere2pts", resourceCulture);
